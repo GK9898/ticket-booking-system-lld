@@ -1,6 +1,7 @@
 # ticket-booking-system-lld
 
-#Problem-Statement
+# Problem-statement
+
 Movie Ticket Booking Application
 Implement a Movie Ticket Booking Application for a Theatre. Refer to the following details:
 
