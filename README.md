@@ -33,9 +33,9 @@ U1 proceeds to pay.
 U2 requests for and gets all Available Seats for this show. U2 should NOT see the seats selected by U1 as AVAILABLE.
 Payment failed for U1. Assume maximum retries as zero just for the demo. Also show in another scenario where U1’s UserBookingSession is explicitly closed by U1 before payment is completed.
 U2 again requests for and gets all Available Seats for this show. U2 should now see the seats previously selected by U1 as AVAILABLE.
+
+
 Case 3:
-
-
 Say U1 and U2 select same show.
 U1 and U2 request for and get all Available Seats for this show.
 U1 selects group of seats and proceeds to pay.
